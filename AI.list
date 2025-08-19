@@ -154,6 +154,6 @@ DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
 DOMAIN,browser-intake-datadoghq.com
-
+DOMAIN-SUFFIX,pincong.rocks
 
 
